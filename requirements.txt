@@ -1,0 +1,7 @@
+tensorflow
+keras
+yfinance
+pandas
+numpy
+scikit-learn
+mysql-connector-python
